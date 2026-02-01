@@ -6,8 +6,8 @@ My current role is *Senior Frontend Developer* at *Albert Heijn (Ahold Delhaize)
 ---
 
 ## 📊 GitHub Statistics
-![Stats](https://github-readme-stats.vercel.app/api?username=Mennauu&show_icons=true&theme=radical&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mennauu&layout=compact&theme=radical&hide_border=true)
+![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Mennauu&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mennauu&layout=compact&theme=radical&hide_border=true)
 
 ---
 
