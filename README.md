@@ -1,7 +1,5 @@
 ## Projects
-* **[vovyl.com](https://vovyl.com)** – Price Comparison for Vinyl Records.
-* **[vpsscouter.com](https://vpsscouter.com)**
-* **[vpnscouting.com](https://vpnscouting.com)**
+* **Vovyl** [vovyl.com](https://vovyl.com) – Price Comparison for Vinyl Records.
 * **SANS Institute** ([sans.org](https://sans.org))
 * **Bissell** ([bissell.com](https://bissell.com))
 * **The Sting** ([thesting.com](https://thesting.com))
@@ -20,3 +18,5 @@
 | :--- | :--- |
 | **bol.com** | **AI Gift Assistant** & interactive marketing campaigns. |
 | **buut.com** | **Migration from Vue to React**. |
+| ** VPS Scouter** | **Best VPS deals [vpsscouter.com](https://vpsscouter.com)** |
+| ** VPN Scouting | **Best VPN deals [vpnscouting.com](https://vpnscouting.com)** |
