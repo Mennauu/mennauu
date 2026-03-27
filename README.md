@@ -18,5 +18,5 @@
 | :--- | :--- |
 | **bol.com** | **AI Gift Assistant** & interactive marketing campaigns. |
 | **buut.com** | **Migration from Vue to React**. |
-| ** VPS Scouter** | **Best VPS deals [vpsscouter.com](https://vpsscouter.com)** |
-| ** VPN Scouting | **Best VPN deals [vpnscouting.com](https://vpnscouting.com)** |
+| **VPS Scouter** | **Best VPS deals [vpsscouter.com](https://vpsscouter.com)** |
+| **VPN Scouting** | **Best VPN deals [vpnscouting.com](https://vpnscouting.com)** |
