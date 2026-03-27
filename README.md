@@ -1,26 +1,7 @@
-# Hi, I'm Menno de Vries. Having fun as a Frontend Developer.
-My current role is *Senior Frontend Developer* at *Albert Heijn (Ahold Delhaize)*.
-
-📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/menno-de-vries/)
-
----
-
-## 📊 GitHub Statistics
-![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Mennauu&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
----
-
-## ⭐ Personal Projects
-* **[vinylscouter.com](https://vinylscouter.com)** – Price Comparison for Vinyl Records.
-* **[vpsscouter.com](https://vpsscouter.com)** – Comparative tool for VPS performance and pricing.
-* **[vpnscouting.com](https://vpnscouting.com)** – Comparative tool for VPN performance and pricing.
-
----
-
-## 💼 Professional Portfolio & Experience
-_A selection of projects and high-traffic platforms. Mainly e-commerce projects running on SalesForce._
-
-### Projects (from start to MVP)
+## Projects
+* **[vovyl.com](https://vovyl.com)** – Price Comparison for Vinyl Records.
+* **[vpsscouter.com](https://vpsscouter.com)**
+* **[vpnscouting.com](https://vpnscouting.com)**
 * **SANS Institute** ([sans.org](https://sans.org))
 * **Bissell** ([bissell.com](https://bissell.com))
 * **The Sting** ([thesting.com](https://thesting.com))
@@ -29,10 +10,6 @@ _A selection of projects and high-traffic platforms. Mainly e-commerce projects 
 * **BK Pans** ([bk.nl](https://bk.nl))
 * **GreenPan** ([greenpan.com](https://greenpan.com))
 * **The Hague Graduate School** ([thehaguegraduateschool.nl](https://thehaguegraduateschool.nl))
-
-### Long-term
-_Projects involving ongoing architectural refinements and scaling after MVP._
-
 * **Hogeschool Rotterdam** ([hr.nl](https://hr.nl))
 * **Design Holding: Flos** ([flos.com](https://flos.com))
 * **Bugaboo** ([bugaboo.com](https://bugaboo.com))
