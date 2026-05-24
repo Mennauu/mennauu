@@ -1,5 +1,6 @@
 ## Projects
-* **Vovyl** [vovyl.com](https://vovyl.com) – Price Comparison for Vinyl Records.
+* **Vovyl** [vovyl.com](https://vovyl.com) – Price Comparison for Vinyl Records (US)
+* **Vinylscout** [vinylscout.nl](https://vinylscout.nl) – Price Comparison for Vinyl Records (NL)
 * **SANS Institute** ([sans.org](https://sans.org))
 * **Bissell** ([bissell.com](https://bissell.com))
 * **The Sting** ([thesting.com](https://thesting.com))
